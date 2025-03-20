@@ -1,4 +1,6 @@
-# Research-Policy-Topic-Modeling
+# 🚀 Examining the Representation of Youth in the US
+ Policy Documents through the Lens of Research
+
 This study explores the representation of youth in
  US policy documents by analyzing how research on youth topics
  is cited within these policies. The research focuses on three key
@@ -11,4 +13,14 @@ This study explores the representation of youth in
  between academic research and policy formulation, highlighting
  areas where youth issues are effectively integrated into policy and
  contributing to the broader goal of enhancing youth engagement
- in societal decision-making processes.
+ in societal decision-making processes. 
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 📬 Contact
+
+📧 Email: [mokarrama.datalab@gmail.com](mailto:mokarrama.datalab@gmail.com)\
+🔗 LinkedIn: [Miftahul Jannat Mokarrama]([https://www.linkedin.com/in/miftahul-jannat-mokarrama])
+
