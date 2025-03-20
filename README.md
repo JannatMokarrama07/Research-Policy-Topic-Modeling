@@ -10,6 +10,9 @@ is cited within these policies. The research focuses on three key questions: </p
   Through this analysis, the study aims to shed light on the relationship between academic research and policy formulation, highlighting
   areas where youth issues are effectively integrated into policy and contributing to the broader goal of enhancing youth engagement in societal decision-making processes. </p>
 
+<b>IEEE Explorer</b>: https://doi.org/10.1109/BigData62323.2024.10825996 \
+<b>Arxiv</b>: https://doi.org/10.48550/arXiv.2501.07858
+
 ## 📄 License
 
 This project is licensed under the MIT License.
