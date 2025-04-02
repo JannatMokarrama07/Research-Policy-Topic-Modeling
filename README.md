@@ -1,6 +1,6 @@
 # 🚀 Examining the Representation of Youth in the US Policy Documents through the Lens of Research
  
-
+<p align="justify">
 This study explores the representation of youth in US policy documents by analyzing how research on youth topics
 is cited within these policies. The research focuses on three key questions: </p>
  - Identifying the frequently discussed topics in youth research that receive citations in policy documents,
